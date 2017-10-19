@@ -1,39 +1,8 @@
-    1  su -
-    2  pg
-    3  su -
-    4  sudo
-    5  su -
-    6  sudo root
-    7  PG
-    8  dir
-    9  cd desktop
-   10  cls
-   11  dir
-   12  cd music
-   13  dir
-   14  cd/music
-   15  dir
-   16  clear
-   17  dir /?
-   18  dir
-   19  cd /?
-   20  /?
-   21  / 
-   22  / ?
-   23  clear
-   24  git
-   25  clear
-   26  ls
-   27  dir
-   28  ls
-   29  ls help
-   30  cls
-   31  ls --help
-   32  ls
-   33  ls -l -a
-   34  ls -la
-   35  history
-   36  pwd
+TWORZENIE PLIKOW I FOLDEROW
+============================
+
+>
+>  36  pwd
    37  clear
    38  cd Desktop
    39  dir
@@ -44,15 +13,18 @@
    44  cd Music
    45  cd ..
    46  cd Music
-   47  ls -ls
-   48  md p
-   49  mdir p
+>   47  ls -ls
+>   48  md p
+>   49  mdir p
    50  ls -la
    51  cls
    52  clear
    53  cd ..
    54  cd Desktop
+
    55  mkdir pierwsze repozytorium
+--------------------------------------
+
    56  mkdir pierwsze_repozyt
    57  mkdir PG
    58  cd pg
