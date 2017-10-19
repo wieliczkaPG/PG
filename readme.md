@@ -55,7 +55,7 @@ sprawdzanie lokalizacji
    77  git add test.txt
    78  git status
    79  git commit -m "zmiana"
-   80  git config --global user.email "p.grodzicki81@gmail.com"
+   80  git config --global user.email "@mail.com"
    81  git config --global user.name "wieliczkaPG"
    82  git status
    83  git log
@@ -98,32 +98,13 @@ sprawdzanie lokalizacji
   120  history . readme.md
   121  nano readme.md
   122  history > readme.md
-[33mcommit 3130d8c95540610b47b8b4a655bbe76235e73647[m
-Author: wieliczkaPG <p.grodzicki81@gmail.com>
-Date:   Thu Oct 19 12:36:43 2017 +0200
 
-    praca domowa
++    praca domowa
+ 
++    czwarta zmiana
 
-[33mcommit f2b0f99f45cb56526e0d257463a0561d10fb4817[m
-Author: wieliczkaPG <p.grodzicki81@gmail.com>
-Date:   Thu Oct 19 12:17:57 2017 +0200
++    trzecia zmiana
 
-    czwarta zmiana
++    druga zmiana
 
-[33mcommit 8a0a45e547bcec5fc156faee27d1afb46f9e5234[m
-Author: wieliczkaPG <p.grodzicki81@gmail.com>
-Date:   Thu Oct 19 11:33:42 2017 +0200
-
-    trzecia zmiana
-
-[33mcommit 398843b8b21415bf77e60802171bbe5d6da06ea5[m
-Author: wieliczkaPG <p.grodzicki81@gmail.com>
-Date:   Thu Oct 19 11:26:42 2017 +0200
-
-    druga zmiana
-
-[33mcommit 58e16b79f3bdc592e83ec5c4969d62172d027af2[m
-Author: wieliczkaPG <p.grodzicki81@gmail.com>
-Date:   Thu Oct 19 11:19:45 2017 +0200
-
-    tworzenie pliku
++    tworzenie pliku
