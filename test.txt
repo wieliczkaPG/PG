@@ -2,5 +2,7 @@ pierwsze zajęcia z oprogramowaniem Git
 
 pierwsza zmiana 
 
-
 druga zmiana 
+
+kolejna trzecia zmiana samodzielna
+
